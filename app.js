@@ -30,6 +30,7 @@ function reset() {
     box7.innerHTML = "";
     box8.innerHTML = "";
     box9.innerHTML = "";
+    count=0;
 }
 
 function game(number) {
